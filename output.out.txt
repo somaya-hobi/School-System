@@ -1,0 +1,46 @@
+SEARCHID Command 
+        ID 1112354 was not found in FCITbook.
+SEARCHNAME Command 
+        Zeinab Eid was not found in FCITbook.
+ADDCOURSE Command 
+        ERROR: cannot add course. Student ID # 1112354 was not found in KAUdbms.
+NEWSTUDENT Command 
+        Muhammad Umair(ID 1117777) has been inserted as a new student in KAUdbms
+NEWSTUDENT Command 
+        Ali AlGhamdi(ID 1112354) has been inserted as a new student in KAUdbms
+ADDCOURSE Command 
+        CPCS204 (Grade: 10) has been added to the record of Student ID 1117777.
+ADDCOURSE Command 
+        CPCS222 (Grade: 98) has been added to the record of Student ID 1117777.
+ADDCOURSE Command 
+        CPCS223 (Grade: 99) has been added to the record of Student ID 1117777.
+ADDCOURSE Command 
+        CPCS324 (Grade: 100) has been added to the record of Student ID 1117777.
+ADDCOURSE Command 
+        CPCS204: grade has been changed/updated, to a 100, for Student ID 1117777.
+ADDCOURSE Command 
+        CPCS204 (Grade: 87) has been added to the record of Student ID 1112354.
+ADDCOURSE Command 
+        CPCS222 (Grade: 92) has been added to the record of Student ID 1112354.
+ADDCOURSE Command 
+        CPCS223 (Grade: 72) has been added to the record of Student ID 1112354.
+ADDCOURSE Command 
+        CPCS324 (Grade: 76) has been added to the record of Student ID 1112354.
+NEWSTUDENT Command 
+        Bilal Zahrani(ID 1418325) has been inserted as a new student in KAUdbms
+NEWSTUDENT Command 
+        Muhammad Ashihiri(ID 1113289) has been inserted as a new student in KAUdbms
+ADDCOURSE Command 
+        CPCS204 (Grade: 65) has been added to the record of Student ID 1418325.
+ADDCOURSE Command 
+        CPCS222 (Grade: 97) has been added to the record of Student ID 1418325.
+ADDCOURSE Command 
+        CPCS223 (Grade: 88) has been added to the record of Student ID 1418325.
+ADDCOURSE Command 
+        CPCS403 (Grade: 79) has been added to the record of Student ID 1418325.
+ADDCOURSE Command 
+        CPCS202 (Grade: 72) has been added to the record of Student ID 1113289.
+ADDCOURSE Command 
+        CPCS203 (Grade: 78) has been added to the record of Student ID 1113289.
+ADDCOURSE Command 
+        CPCS222 (Grade: 86) has been added to the record of Student ID 1113289.
